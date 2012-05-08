@@ -1,7 +1,7 @@
 USAGE:
 
 1. cd ~/Library/Application\ Support/Textmate/Bundles
-2. git clone git@github.com:dfltr/Galzroth.git Galzroth.tmbundle
+2. git clone git://github.com/dfltr/Galzroth.git Galzroth.tmbundle
 3. Textmate -> Bundles -> Bundle Editor -> Reload Bundles
 4. Hit CMD + S
    4a. Behold as trailing whitespace disappears into the infernal maw of Galzroth, Devourer of Whitespace
